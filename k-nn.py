@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 20 10:04:04 2024
-
-@author: ozan.karadut
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 20 10:01:04 2024
-
-@author: ozan.karadut
-"""
 
 import pandas as pd
 import numpy as np
